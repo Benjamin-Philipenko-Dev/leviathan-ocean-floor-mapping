@@ -1,0 +1,2 @@
+# Plotly-generated maps; keep them out of GitHub language stats.
+terrain-mapping/*.html linguist-generated=true
